@@ -2,7 +2,7 @@
 set -e
 
 if [ -f "software_package/CLion"* ]; then
-	echo "haha"
+	echo "find clion package, installing..."
 else
 	echo "can't find clion package, exit"
 	exit

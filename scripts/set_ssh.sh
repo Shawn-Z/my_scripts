@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e
 
+sudo apt install xsel -y
+
 # replace with your default email here
 email="2120170431@bit.edu.cn"
 
